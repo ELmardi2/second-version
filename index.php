@@ -44,7 +44,7 @@
                                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Adminstratifs <span class="caret"></span></a>
                                        <ul class="dropdown-menu links">
                                          <li><a href="#"  data-value="transport">Votre but</a></li>
-                                         <li><a href="#">Type de technologie</a></li>
+
                                  </ul>
                         </li>
                              <li class="dropdown">
@@ -70,10 +70,6 @@
                                                       </ul>
                                                   </li>
                            <li><a href="https://www.paypal.com/fr/webapps/mpp/home"><img src="http://seeklogo.com/images/P/paypal-logo-C83095A82C-seeklogo.com.png" width="25" height="25">Faite donne</a></li>
-                        <ul class="nav navbar-nav navbar-right">
-                          <li><a href="#"><span class="glyphicon glyphicon-user"></span> S'inscrire'</a></li>
-                          <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> se connecter</a></li>
-                        </ul>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -88,6 +84,7 @@
 					<div class="col-md-12">
 						<div class="welcome-am">
 							<h1 align='center'>Bienvenue Sur RefuHelp</h1>
+							<p>Refuhelp c'est le meilleur site d'orienter les refugies et les imigrants</p>
 						</div>
 					</div>
 				</div>
@@ -113,7 +110,7 @@
           <!--Start Side bar-right-->
           <div class="col-sm-8">
             <div class="right-side">
-                              <div class="bs-calltoaction bs-calltoaction-default">
+                              <div class="bs-calltoaction accommondation acco-first">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Accommondation</h1>
@@ -129,7 +126,7 @@
                                    </div>
                               </div>
 
-                              <div class="bs-calltoaction bs-calltoaction-primary">
+                              <div class="bs-calltoaction adminstratif">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Adminstratifs</h1>
@@ -146,7 +143,7 @@
                                    </div>
                               </div>
 
-                              <div class="bs-calltoaction bs-calltoaction-info">
+                              <div class="bs-calltoaction sante">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Santé</h1>
@@ -162,7 +159,7 @@
                                    </div>
                               </div>
 
-                              <div class="bs-calltoaction bs-calltoaction-success">
+                              <div class="bs-calltoaction loisirs">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Loisirs</h1>
@@ -178,7 +175,7 @@
                                    </div>
                               </div>
 
-                              <div class="bs-calltoaction bs-calltoaction-warning">
+                              <div class="bs-calltoaction conexion">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Connexion</h1>
@@ -194,7 +191,7 @@
                                    </div>
                               </div>
 
-                              <div class="bs-calltoaction bs-calltoaction-danger">
+                              <div class="bs-calltoaction insersion ins-pro">
                                   <div class="row">
                                       <div class="col-md-9 cta-contents">
                                           <h1 class="cta-title">Insersion Professionnelle</h1>
@@ -226,7 +223,16 @@
                       </div>
                    </div>
               </div>
-
+							<div class="bs-calltoaction bs-calltoaction-success">
+									<div class="row">
+											<div class="col-md-9 cta-contents">
+													<h1 class="cta-title">Nos Activites</h1>
+											</div>
+											<div class="col-md-3 cta-button">
+													<a href="qui-sommes-nous.php" class="btn btn-lg btn-block btn-primary"><i class="fa fa-hand-pointer-o fa-2x" aria-hidden="true">ICI !</i></a>
+											</div>
+									 </div>
+							</div>
               <div class="bs-calltoaction bs-calltoaction-info">
                   <div class="row">
                       <div class="col-md-9 cta-contents">
@@ -253,7 +259,7 @@
 													<div class="row">
 													  <div class="col-md-8">
 																	  <div class="vid">
-																				  <iframe width="520" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
+																				  <iframe width="490" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
 																			 </div><!--./vid -->
 																	 </div><!--.col -->
 														</div>

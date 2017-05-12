@@ -223,10 +223,59 @@ li > a {
 
 
 
-.bs-calltoaction.bs-calltoaction-default{
+.accommondation{
   color: #e9f0ee;
-background-color: #820d93;
-border-color: #ccc;
+background-image: url(../images/portfolio-1.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100% 100%;
+background-origin: content-box;
+}
+
+.adminstratif{
+  color: #fff;
+  background-image: url(../images/portfolio-3.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  background-clip: border-box;
+}
+
+.sante{
+  color: #fff;
+  background-image: url(../images/portfolio-4.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+.loisirs{
+  color: #fff;
+  background-image: url(../images/portfolio-2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+.conexion{
+    color: #fff;
+    background-image: url(../images/portfolio-5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.insersion{
+  color: #fff;
+  background-image: url(../images/portfolio-6.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+}
+p {
+    margin: 0 0 10px;
+
 }
 
 .bs-calltoaction.bs-calltoaction-primary{
@@ -253,16 +302,6 @@ border-color: #4cae4c;
     color: #fff;
     background-color: #f0ad4e;
     border-color: #eea236;
-}
-
-.bs-calltoaction.bs-calltoaction-danger{
-  color: #fff;
-background-color: #98366a;
-border-color: #4cae4c;
-}
-p {
-    margin: 0 0 10px;
-
 }
 .bs-calltoaction.bs-calltoaction-primary .cta-button .btn,
 .bs-calltoaction.bs-calltoaction-info .cta-button .btn,

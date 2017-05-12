@@ -1,0 +1,49 @@
+.su-nav{
+	height: 70px;
+}
+
+#su-content{
+	background-image: url(../images/Page2background.jpg);
+	background-repeat: no-repeat;
+}
+#su-logo{
+	height: 120px;
+	width: 300px;
+}
+#su-sm{
+   padding: 20px;
+  font-size: 30px;
+  margin: 5px 10px 2px;
+  float: right;
+
+}
+#su-subject{
+	background-color: rgb(61, 203, 209);
+	height: 80px;
+	text-align: center;
+	margin: 30px -15px 30px -15px;
+	padding: 5px;
+}
+.su-panel-heading{
+	background-color: green;
+	height: 80px;
+	margin-top: 0px;
+	padding: 3px;
+}
+.fa-map-marker{ 
+color: rgb(237, 104, 92);
+}
+.fa-phone-square{
+	color: rgb(237, 104, 92);
+}
+.btn-lg{
+	color: rgb(237, 104, 92);
+}
+.su-footer{
+	background-color: green;
+	height: 50px;
+	text-align: left;
+	margin: 0px -15px 0px -15px;
+	padding: 10px;
+	font-size: 150%;
+}
